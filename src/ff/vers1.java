@@ -1,9 +1,9 @@
-package Programa;
+package ff;
 
 import java.util.Scanner;
 
-public class programa {
-	
+public class vers1 {
+
 	public static int menuPrincipal(Scanner sc) {
 		System.out.println("Bienfkwfkwebfwe");
 		System.out.println("Digite el numero de su elección:");
@@ -104,5 +104,4 @@ public class programa {
 		opcion = menuPrincipal(sc);
 		
 	}
-
 }
